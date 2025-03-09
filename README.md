@@ -77,5 +77,4 @@ A comprehensive web-based platform designed to analyze stock market data with ac
 
 
 ## 💬 Contact
-For inquiries, feel free to reach out at **dishasuryawanshi104@gmail.com**.
-
+For inquiries, feel free to reach out!!
