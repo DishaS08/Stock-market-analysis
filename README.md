@@ -1,6 +1,6 @@
 # 📈 Stock Market Analysis
 
-A comprehensive web-based platform designed to analyze stock market data with accurate predictions and insightful visualizations.
+A real-time stock market analysis platform that fetches live market data using APIs, applies ML models, and visualizes trends dynamically.
 
 ## 🚀 Features
 - 📊 Built using **HTML**, **CSS**, **JavaScript**, and **Python**.
@@ -8,6 +8,7 @@ A comprehensive web-based platform designed to analyze stock market data with ac
   - **SVM** (Support Vector Machine)
   - **Linear Regression**
   - **Random Forest**
+  - **Real-time stock price updates using Polygon.io API**
 - 📉 Provides detailed visualizations like **line charts**, **pie charts**, and trend analysis.
 - 🎯 Predicts stock trends with accuracy metrics for better insights.
 
@@ -16,7 +17,8 @@ A comprehensive web-based platform designed to analyze stock market data with ac
 - **Python** for backend logic and ML model integration
 - **Matplotlib** and **Seaborn** for data visualization
 - **Power BI** for additional insights and dashboard creation
-
+- **Polygon.io API** Real-time data fetched using API.
+  
 ## 📂 Project Structure
 ```
 📂 Stock-Market-Analysis
